@@ -119,6 +119,7 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kygxBFD4n4KNmaZIkKrAPEgbX4" />
@@ -129,7 +130,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../larproj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravelTest3" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -139,6 +140,7 @@
       <recent name="C:\xampp\htdocs\larproj4\resources\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\larproj4\public\img\profile" />
       <recent name="C:\xampp\htdocs\larproj4\public\css" />
       <recent name="C:\xampp\htdocs\larproj4\resources\views" />
     </key>
@@ -157,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606678489099</updated>
-      <workItem from="1606678490169" duration="7385000" />
+      <workItem from="1606678490169" duration="25885000" />
     </task>
     <servers />
   </component>
@@ -165,14 +167,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="370" y="93" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606685708370">
+    <state x="370" y="93" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606754271823">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="370" y="93" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606685708370" />
-    <state x="420" y="93" key="FileChooserDialogImpl" timestamp="1606686730885">
+    <state x="370" y="93" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606754271823" />
+    <state x="420" y="93" key="FileChooserDialogImpl" timestamp="1606756063950">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="93" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606686730885" />
+    <state x="420" y="93" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606756063950" />
     <state x="474" y="262" key="NewPhpFileDialog" timestamp="1606682250613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

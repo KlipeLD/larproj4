@@ -20,4 +20,11 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::post('/index', 'App\Http\Controllers\UserController@store');
+/*Route::get('/user', function () {
+    return view('user');
+});*/
+Route::get('/user', 'App\Http\Controllers\UserController@show');
+Route::get('/inf', 'App\Http\Controllers\UserController@showInf')->name('inf');
+Route::get('/inf/{id}', 'App\Http\Controllers\UserController@showInf')->name('showInf');
+Route::post('/inf', 'App\Http\Controllers\UserController@store');
+
